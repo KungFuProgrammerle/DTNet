@@ -1,2 +1,3 @@
 # DTNet
-The code for this paper will be available after publication.
+This is the official code of dtnet.
+The dataset used in the paper can be found here:
